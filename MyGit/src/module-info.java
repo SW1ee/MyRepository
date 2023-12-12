@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author slesw
+ *
+ */
+module MyGit {
+}
